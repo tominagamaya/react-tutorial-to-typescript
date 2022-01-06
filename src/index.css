@@ -48,3 +48,11 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.current-button {
+  font-weight: bold;
+}
+
+.winnerSquare {
+  background: orange;
+}
